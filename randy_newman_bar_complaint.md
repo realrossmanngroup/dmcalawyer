@@ -126,7 +126,7 @@ He then posted a meme depicting a woman pretending to hang herself, removing any
 
 ### why this is worth investigating
 
-**Newman told another person to kill himself, confirmed the statement when challenged, acknowledged in private that it could lead to disbarment, & then repeated the same conduct weeks later.** The progression from the initial statement through private acknowledgment of its severity to repetition shows that this is a pattern a pattern.
+**Newman told another person to kill himself, confirmed the statement when challenged, acknowledged in private that it could lead to disbarment, & then repeated the same conduct weeks later.** The progression from the initial statement through private acknowledgment of its severity to repetition shows that this is a pattern.
 
 [Exhibit 4](./exhibit-04-crude-harassing-discord-conduct.png)
 
