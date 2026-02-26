@@ -23,7 +23,7 @@ So I looked into the attorney pushing this theory. What I found was an attorney 
 
 This complaint documents all of it with screenshots & citations to the specific professional conduct rules each act violates.
 
-## whjat this complaint covers
+## what this complaint covers
 
 **1. Encouraging suicide.** Newman repeatedly told people to kill themselves in Discord messages, doubled down when called out, privately acknowledged to another user that this could get him disbarred, & then weeks later posted a meme of a person hanging themselves. Potentially criminal under New York Penal Law Section 120.30 & California Penal Code Section 401.
 
@@ -35,7 +35,7 @@ This complaint documents all of it with screenshots & citations to the specific 
 
 **5. Doxxing.** Newman published the defendant's full residential address on his YouTube channel without redaction & bragged about "unmasking" him.
 
-## why does tis matter beyodn one bad lawyer?
+## why does this matter beyond one bad lawyer?
 
 If you're an attorney, you are held to professional conduct rules. You agreed to follow them when you got your license. If you're going to use the legal system to punish someone for using 30 extra seconds of a YouTube clip, you don't get to simultaneously break the rules that govern your own profession on your own business accounts.
 
