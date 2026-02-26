@@ -124,7 +124,7 @@ He then posted a meme depicting a woman pretending to hang herself, removing any
 
 <a href="./exhibit-10-hanging-meme-post.png"><img src="./thumbs/exhibit-10-hanging-meme-post.png" width="400" alt="Exhibit 10"></a>
 
-### why this is worth investigating
+### Why This is Worth Investigating
 
 **Newman told another person to kill himself, confirmed the statement when challenged, acknowledged in private that it could lead to disbarment, & then repeated the same conduct weeks later.** The progression from the initial statement through private acknowledgment of its severity to repetition shows that this is a pattern a pattern.
 
