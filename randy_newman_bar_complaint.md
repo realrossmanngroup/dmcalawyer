@@ -233,7 +233,7 @@ Newman's own on-camera admission that he knows direct email solicitation is proh
 
 #### New York:
 
-**[NY RPC Rule 4.4(a)](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_4_4_respect_for_rights_of_third_persons/):** In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
+**[NY RPC Rule 4.4(a)](https://www.law.cornell.edu/regulations/new-york/22-NYCRR-1200.4.4):** In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass or harm a third person or use methods of obtaining evidence that violate the legal rights of such a person.
 
 **NY RPC Rule 8.4(d):** Conduct prejudicial to the administration of justice.
 
@@ -491,7 +491,7 @@ These are not isolated comments. Newman systematically uses YouTube livestreams 
 
 #### New York:
 
-**[NY RPC Rule 4.4(a)](https://www.law.cornell.edu/regulations/new-york/22-NYCRR-1200.4.4):** "In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person."
+**[NY RPC Rule 4.4(a)](https://www.law.cornell.edu/regulations/new-york/22-NYCRR-1200.4.4):** "In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass or harm a third person or use methods of obtaining evidence that violate the legal rights of such a person."
 
 **[NY RPC Rule 3.1](https://www.law.cornell.edu/regulations/new-york/22-NYCRR-1200.3.1):** "A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification, or reversal of existing law."
 
