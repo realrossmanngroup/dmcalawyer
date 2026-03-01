@@ -1,6 +1,6 @@
-# bar complaint against randall scott newman
+# Bar Complaint Against Randall Scott Newman
 
-**Filing with:**
+**Filing With:**
 
 1. Attorney Grievance Committee, Supreme Court, Appellate Division, First Judicial Department
 2. The State Bar of California, Office of Chief Trial Counsel
@@ -26,7 +26,7 @@
 
 ---
 
-## summary
+## Summary
 
 This complaint presents documented evidence that Randall Scott Newman, an attorney licensed in New York & California, has engaged in a pattern of professional misconduct spanning from approximately September 2025 through January 2026. The most serious documented conduct includes:
 
@@ -42,7 +42,7 @@ This was all conducted through business social media accounts Mr. Newman uses to
 
 ---
 
-## professional capacity:
+## Professional Capacity:
 
 Newman has a YouTube channel called **"[The DMCA Lawyer](https://www.youtube.com/@TheDMCALawyer)"** & a Discord account under the handle **"RSN"** on the [Really Cool News Discord server](https://discord.com/invite/REBTarYPDY). These are not private personal accounts. The YouTube channel advertises Newman's legal services & displays the same business email he uses in litigation filings. See Exhibit 1.
 
@@ -60,9 +60,9 @@ Every act described below was committed through these business-facing accounts. 
 
 ---
 
-## #1: encouraging suicide & acknowledging risk of disbarment
+## #1: Encouraging Suicide & Acknowledging Risk of Disbarment
 
-### Rule broken:
+### Rule Broken:
 
 #### New York:
 
@@ -84,17 +84,9 @@ Encouraging suicide is a **felony** under **[California Penal Code § 401(a)](ht
 
 **[California Rule of Professional Conduct 8.4(d)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** A lawyer shall not "engage in conduct that is prejudicial to the administration of justice."
 
-### evidence
+### Evidence
 
 On December 1, 2025, Newman engaged in an argument with another user on the [Discord server "Really Cool News"](https://discord.com/invite/REBTarYPDY) & told the user "Go Kill yourself," followed by "Everyone will be happier." Discord moderators deleted the message for violating terms of service. The deleted message is visible in a quote reply that reads "Original message was deleted." See Exhibit 5.
-
-
-
-just stating the obvious." See Exhibit 8.
-
-<a href="./exhibit-08-just-stating-the-obvious.jpg"><img src="./thumbs/exhibit-08-just-stating-the-obvious.jpg" width="400" alt="Exhibit 8"></a>
-
-
 
 <a href="./exhibit-05-go-kill-yourself-message.png"><img src="./thumbs/exhibit-05-go-kill-yourself-message.png" width="400" alt="Exhibit 5"></a>
 
@@ -114,7 +106,9 @@ See Exhibit 7.
 
 <a href="./exhibit-07-disbarment-concern-private-chat.jpg"><img src="./thumbs/exhibit-07-disbarment-concern-private-chat.jpg" width="400" alt="Exhibit 7"></a>
 
-Despite this acknowledged risk, Newman repeated the conduct. In a subsequent conversation, he stated: "I didn't threaten him. I suggested his family would be happier if he killed himself which is probably true.
+Despite this acknowledged risk, Newman repeated the conduct. In a subsequent conversation, he stated: "I didn't threaten him. I suggested his family would be happier if he killed himself which is probably true. I'm just stating the obvious." See Exhibit 8.
+
+<a href="./exhibit-08-just-stating-the-obvious.jpg"><img src="./thumbs/exhibit-08-just-stating-the-obvious.jpg" width="400" alt="Exhibit 8"></a>
 
  On January 2, 2026, Newman told the same individual "There is still time if you know what I mean." See Exhibit 9.
 
@@ -124,7 +118,7 @@ He then posted a meme depicting a woman pretending to hang herself, removing any
 
 <a href="./exhibit-10-hanging-meme-post.png"><img src="./thumbs/exhibit-10-hanging-meme-post.png" width="400" alt="Exhibit 10"></a>
 
-### why this is worth investigating
+### Why This is Worth Investigating
 
 **Newman told another person to kill himself, confirmed the statement when challenged, acknowledged in private that it could lead to disbarment, & then repeated the same conduct weeks later.** The progression from the initial statement through private acknowledgment of its severity to repetition shows that this is a pattern a pattern.
 
@@ -132,9 +126,9 @@ He then posted a meme depicting a woman pretending to hang herself, removing any
 
 ---
 
-## #2 improper contact with a represented party through a third party
+## #2 Improper Contact With a Represented Party Through a Third Party
 
-### rule:
+### Rule:
 
 #### New York:
 
@@ -152,7 +146,7 @@ He then posted a meme depicting a woman pretending to hang herself, removing any
 
 [Cal. State Bar Formal Opinion No. 1993-131](https://www.calbar.ca.gov/Portals/0/documents/ethics/Opinions/1993-131.htm) established the controlling test: when the content of a communication with an opposing party originates with or is directed by the attorney, it is prohibited regardless of the method of transmission.
 
-### facts:
+### Facts:
 
 On or about September 19, 2025, Newman contacted Peter Coventry, an acquaintance of the complainant, by email. The purpose of the communication was to obtain information from the complainant concerning the pending litigation (*Cordova v. Huneault et al.*, No. 5:25-cv-04685, N.D. Cal.). At the time of this contact, Newman knew the complainant was represented by attorney Steven Vondran. Newman's own emails confirm this awareness; he wrote that he had "predicted" the complainant would retain "Vondran." See Exhibit 41.
 
@@ -166,7 +160,7 @@ Coventry informed the complainant about these communications & provided screensh
 
 <a href="./exhibit-43-coventry-forwarded-screenshots.png"><img src="./thumbs/exhibit-43-coventry-forwarded-screenshots.png" width="600" alt="Exhibit 43"></a>
 
-### This is the most important violation.
+### This is the Most Important Violation.
 
 Rule 4.2 is one of the most strictly enforced rules in attorney discipline because it protects the attorney-client relationship. Newman's own emails demonstrate he knew the complainant was represented. Rather than contact opposing counsel, he used a third party to attempt to extract case-related information. This is a textbook Rule 4.2 violation compounded by a Rule 8.4(a) violation for attempting to circumvent the rules through the acts of another.
 
@@ -174,7 +168,7 @@ Rule 4.2 is one of the most strictly enforced rules in attorney discipline becau
 
 ## 3: Solicitation of Clients
 
-### rule broken:
+### Rule Broken:
 
 #### New York:
 
@@ -221,15 +215,15 @@ On the same livestream at 1:19:04, Newman stated he wanted to contact "Johnny So
 
 <a href="./exhibit-14b-solicitation-admission-closeup.png"><img src="./thumbs/exhibit-14b-solicitation-admission-closeup.png" width="600" alt="exhibit14b_upated"></a>
 
-### He acknowledges the rule & tries to get around it
+### He Acknowledges the Rule & Tries to Get Around it
 
 Newman's own on-camera admission that he knows direct email solicitation is prohibited, combined with his stated strategy of using YouTube tagging as a workaround, establishes both knowledge of the rule & intent to circumvent it. The use of a third party on the livestream to solicit on his behalf compounds the violation under Rule 8.4(a).
 
 ---
 
-## #4: harassment & intimidation of opposing parties in pending litigation
+## #4: Harassment & Intimidation of Opposing Parties in Pending Litigation
 
-### rules
+### Rules
 
 #### New York:
 
@@ -249,7 +243,7 @@ Newman's own on-camera admission that he knows direct email solicitation is proh
 
 **California's anti-doxxing statutes**;  [Penal Code § 653.2](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=653.2.) (criminal; prohibits electronic distribution of personal identifying information with intent to cause harassment, a misdemeanor) and [Civil Code § 1708.89](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1708.89.) (the "Doxing Victims Recourse Act," effective January 1, 2025; provides a private right of action for victims of doxxing with statutory damages, punitive damages, and attorney's fees);  provide remedies for publishing someone's personal identifying information with intent to harass. A violation of Penal Code § 653.2 could independently constitute the "criminal act" contemplated by California Rule 8.4(b).
 
-### evidence
+### Evidence
 
 Newman created & published degrading images targeting the complainant & the complainant's wife, Nneka Ohiri, who are defendants in Newman's client's lawsuit. After the complainant mentioned in a livestream that his hair was thinning, Newman created an image depicting him as bald. See Exhibit 16.
 
@@ -257,7 +251,7 @@ Newman created & published degrading images targeting the complainant & the comp
 
 After the complainant described his wife as beautiful during a livestream, Newman created & published an AI-generated image mocking her physical appearance. See Exhibit 17. Newman later removed this image from his channel.
 
-### making fun of defendent's wife
+### Making Fun of Defendent's Wife
 
 <a href="./exhibit-19-fantasy-reality-wife-mockery.png"><img src="./thumbs/exhibit-19-fantasy-reality-wife-mockery.png" width="600" alt="Exhibit 19"></a>
 
@@ -271,7 +265,7 @@ The case is being litigated on a contingency basis for the plaintiff, while the 
 
 <a href="./exhibit-18-homeless-beggar-image.png"><img src="./thumbs/exhibit-18-homeless-beggar-image.png" width="600" alt="Exhibit 18"></a>
 
-### doxxing
+### Doxxing
 
 Newman published the complainant's full residential address on his YouTube channel & personal website without redacting it. Newman then bragged about "unmasking" the complainant's identity & created an image depicting the complainant as a homeless man hiding in a cardboard box. See Exhibits 22 & 23.
 
@@ -279,7 +273,7 @@ Newman published the complainant's full residential address on his YouTube chann
 
 <a href="./exhibit-23-homeless-cardboard-box-image.png"><img src="./thumbs/exhibit-23-homeless-cardboard-box-image.png" width="600" alt="Exhibit 23"></a>
 
-### accusation of stealing money
+### Accusation of Stealing Money
 
 On that same livestream, the plaintiff's representative stated the complainant was *"stealing money"* from viewers through a GoFundMe. Newman did not deny or correct this claim. See Exhibit 39.
 
@@ -289,15 +283,15 @@ In a separate comment section, Newman wrote that the complainant was *"ripping o
 
 <a href="./exhibit-40-ripping-off-subs-scam-comment.png"><img src="./thumbs/exhibit-40-ripping-off-subs-scam-comment.png" width="600" alt="Exhibit 40"></a>
 
-### he's publicly harassing the person he is suing.
+### He's Publicly Harassing the Person he is Suing.
 
 These actions serve no legitimate litigation purpose. They're designed to degrade, humiliate, & pressure opposing parties into settlement by making the litigation experience as personally painful as possible. Newman is the plaintiff's attorney in this case; he has a direct financial interest in the outcome due to his contingency fee arrangement. The publication of the complainant's home address, combined with the pattern of public ridicule, constitutes conduct with no substantial purpose other than to embarrass & burden a third person under Rule 4.4(a). The public statements accusing the complainant of fraud are extrajudicial statements by a litigating attorney that risk prejudicing potential jurors, given that a jury trial has been demanded.
 
 ---
 
-## #5 harassing disabled individuals
+## #5 Harassing Disabled Individuals
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -311,7 +305,7 @@ These actions serve no legitimate litigation purpose. They're designed to degrad
 
 **[California Business & Professions Code § 6106](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6106.):** Acts involving moral turpitude committed in any context;  including outside the practice of law;  constitute grounds for disbarment or suspension. Publicly mocking disabled individuals with slurs on business social media constitutes conduct showing "a flagrant disrespect for societal norms" under the moral turpitude standard established in *In re Lesansky* (2001) 25 Cal.4th 11. B&P § 6106 is the stronger companion authority because it has been actively enforced for decades & has no practice-of-law limitation, unlike Rule 8.4.1.
 
-### evidence:
+### Evidence:
 
 Using his business social media accounts, Newman created & published degrading images targeting individuals who use wheelchairs, tagging them directly within the community of people where he solicits new clients & business.
 
@@ -345,7 +339,7 @@ Newman described two wheelchair-bound individuals as "broke losers" & "lame gimp
 
 <a href="./exhibit-29-broke-losers-lame-gimps.png"><img src="./thumbs/exhibit-29-broke-losers-lame-gimps.png" width="600" alt="Exhibit 29"></a>
 
-### why this should be investigated
+### Why This Should be Investigated
 
 New York's amended Rule 8.4(g) (effective June 10, 2022) prohibits harassment or discrimination on the basis of disability in conduct related to the practice of law. The rule covers "interacting with witnesses, coworkers, court personnel, lawyers, & others, while engaging in the practice of law" (Comment [3] to Rule 8.4(g)).
 
@@ -353,9 +347,9 @@ Because Newman conducted this harassment through the same professional accounts 
 
 ---
 
-## #6: harassment targeting religious faith
+## #6: Harassment Targeting Religious Faith
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -373,7 +367,7 @@ Because Newman conducted this harassment through the same professional accounts 
 
 **[California Rule of Professional Conduct 8.4(d)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** Conduct prejudicial to the administration of justice.
 
-### evidence
+### Evidence
 
 Patrick D'Arcy, a YouTuber who covered Newman's cases & offered criticism, had previously posted a video about a personal spiritual experience involving Jesus (https://www.youtube.com/watch?v=vTYNN8tonIM). After discovering this video, Newman launched a sustained campaign targeting D'Arcy's faith.
 
@@ -407,15 +401,15 @@ When viewers criticized this conduct, Newman responded by saying he was not sorr
 
 <a href="./exhibit-38-cry-harder-response.png"><img src="./thumbs/exhibit-38-cry-harder-response.png" width="600" alt="Exhibit 38"></a>
 
-### why this is important
+### Why This is Important
 
 This campaign lasted months, where AI-generated videos & images were made to target D'Arcy for his religious faith. It was conducted entirely through Newman's professional business accounts. Under the amended Rule 8.4(g), "religion" is an explicitly protected category. The sustained nature of the campaign, spanning multiple videos, images, & responses to criticism, eliminates any argument that this was a one-time lapse in judgment.
 
 ---
 
-## #7: fictitious office address & practicing from Thailand through a virtual mailbox
+## #7: Fictitious Office Address & Practicing From Thailand Through a Virtual Mailbox
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -437,7 +431,7 @@ The New York Court of Appeals held in *Schoenefeld v. State of New York*, 25 N.Y
 
 **[California Rule of Professional Conduct 8.4(c)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** A lawyer shall not "engage in conduct involving dishonesty, fraud, deceit, or reckless or intentional misrepresentation."
 
-### evidence
+### Evidence
 
 Newman lists his office as **99 Wall Street, Suite 3727, New York, NY 10005** on bar registrations, court filings, & his professional website. This address is a virtual mailbox operated by **[PhysicalAddress.com](https://physicaladdress.com/virtual-office-new-york/)**, a mail-forwarding service starting at $19.98/month. Customers select their own "suite" number at signup.
 
@@ -447,15 +441,15 @@ Newman's actual location is established by his **own sworn court filing**. In *C
 
 In that same declaration, Newman describes retaining a process server to serve someone at "99 Wall Street";  & the process server **"was unable to locate a suite"** at that address.
 
-### why this warrants investigation
+### Why This Warrants Investigation
 
 Every element is independently verifiable: the building has 27 floors (public records), PhysicalAddress.com operates a virtual mailbox there (visit the website), customers choose their own suite numbers (signup flow), & Newman swore under oath he was in Thailand (PACER docket). Violation of § 470 results in disqualification from New York cases, inability to collect legal fees, & disciplinary referral. Listing a non-existent suite number on court filings & bar registrations is an affirmative misrepresentation under Rule 8.4(c).
 
 ---
 
-## #8: trial publicity violations through YouTube livestreams
+## #8: Trial Publicity Violations Through YouTube Livestreams
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -469,7 +463,7 @@ Every element is independently verifiable: the building has 27 floors (public re
 
 **[California Rule of Professional Conduct 8.4(d)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** A lawyer shall not "engage in conduct that is prejudicial to the administration of justice."
 
-### evidence
+### Evidence
 
 Newman conducted regular YouTube livestreams where he discussed pending litigation in prejudicial detail, including legal strategy, specific evidence, & characterizations of judicial statements from off-the-record hearings.
 
@@ -479,15 +473,15 @@ In **August/September 2025**, after a status hearing, Newman & Cordova livestrea
 
 Newman announced on YouTube that YouTube had disclosed identity information in response to his subpoenas, & that attorney Reed had provided Frauditor Roundup's identity, before this information appeared on the public docket. (Source: [ReallyCoolSite coverage of DMA Sunday livestream, Sept. 23, 2025](https://reallycoolsite.org/dr-dave-shares-secrets-on-dma-sunday-livestream/))
 
-### why this warrants investigation
+### Why This Warrants Investigation
 
 These are not isolated comments. Newman systematically uses YouTube livestreams to discuss pending litigation in detail that goes far beyond what Rule 3.6 permits. Disclosing a judge's off-the-record comments to a public YouTube audience is a direct violation: those statements are confidential by their nature. Newman also includes his YouTube channel URL in his federal court filing signature block, effectively using court documents to direct opposing parties & the public to a channel where he attacks defendants & discusses case strategy.
 
 ---
 
-## #9: suing opposing attorneys for filing DMCA counter-notices
+## #9: Suing Opposing Attorneys for Filing DMCA Counter-Notices
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -501,7 +495,7 @@ These are not isolated comments. Newman systematically uses YouTube livestreams 
 
 **[California Rule of Professional Conduct 8.4(d)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** A lawyer shall not "engage in conduct that is prejudicial to the administration of justice."
 
-### evidence
+### Evidence
 
 Newman filed federal lawsuits against at least two attorneys for the act of filing DMCA counter-notices on behalf of their clients;  the statutory mechanism Congress created under [17 U.S.C. § 512(g)](https://www.law.cornell.edu/uscode/text/17/512) for a person who believes their content was wrongly taken down:
 
@@ -517,15 +511,15 @@ The chilling effect has been documented: Reed's law practice has reportedly clos
 
 Newman publicly described one of these cases as "what happens when you mix YouTube bullying with legal malpractice lite";  publicly accusing an opposing attorney of malpractice outside of any disciplinary proceeding.
 
-### why this warrants investigation
+### Why This Warrants Investigation
 
 Suing attorneys for performing their core professional function;  filing counter-notices on behalf of clients;  has the substantial purpose of deterring future legal representation. The pattern of filing three separate lawsuits against two attorneys suggests a deliberate strategy to chill the willingness of lawyers to represent clients in DMCA disputes. The documented closure of Reed's practice provides concrete evidence of the chilling effect.
 
 ---
 
-## #10: frivolous litigation & abuse of legal process
+## #10: Frivolous Litigation & Abuse of Legal Process
 
-### rules:
+### Rules:
 
 #### New York:
 
@@ -539,7 +533,7 @@ Suing attorneys for performing their core professional function;  filing counter
 
 **[California Rule of Professional Conduct 8.4(d)](https://www.calbar.ca.gov/Portals/0/documents/rules/New-Rules-of-Professional-Conduct-8.pdf):** A lawyer shall not "engage in conduct that is prejudicial to the administration of justice."
 
-### the legal standard for frivolous litigation
+### The Legal Standard for Frivolous Litigation
 
 Rule 3.1 does not require that a lawsuit succeed;  it requires that there be a "basis in law & fact" at the time of filing "that is not frivolous." The question is whether a reasonable attorney would have concluded there was a good-faith basis to bring the case.
 
@@ -549,7 +543,7 @@ Under California law, *Zamos v. Stroud*, 32 Cal.4th 958 (2004) holds that attorn
 
 California's **[anti-SLAPP statute (CCP § 425.16)](https://www.rcfp.org/anti-slapp-guide/california/)** provides a mechanism to strike lawsuits that target protected speech, with mandatory attorney fee awards.
 
-### evidence of the pattern
+### Evidence of the Pattern
 
 Newman filed at least **eight federal lawsuits** in the Northern District of California within approximately three to four months (June–September 2025) on behalf of YouTube content creators, despite his clients & defendants residing in Colorado, Florida, Canada, & Pakistan.
 
@@ -563,13 +557,13 @@ Newman also uses YouTube to publicly harass & berate the same individuals he sue
 
 **YouTube itself reviewed & restored multiple videos as fair use** in several of Newman's DMCA disputes;  suggesting the original takedowns lacked a good-faith basis. When the platform's own review process concludes the use is fair, it becomes increasingly difficult for the attorney to argue he had a good-faith basis for the takedown. (Source: [ReallyCoolSite, "DMA Copyright Strike Campaign Hits 1A Audits Exposé"](https://reallycoolsite.org/dma-copyright-strike-campaign-hits-1a-audits-expose-is-dr-dave-next/))
 
-### why this warrants investigation
+### Why This Warrants Investigation
 
 The combination of (1) filing copyright claims against commentary videos likely protected by fair use, (2) YouTube restoring videos as fair use, (3) filing in a jurisdiction without supporting case law, (4) admitting to filing a suit solely to coerce settlement when no damages were available, & (5) simultaneously conducting a public harassment campaign against the same defendants establishes a pattern that goes beyond aggressive-but-legitimate litigation. The legal system is being used as a weapon in a coordinated campaign of harassment.
 
 ---
 
-## pattern of conduct
+## Pattern of Conduct
 
 The allegations above aren't isolated incidents. It spans from approximately September 2025 through January 2026 & reflect a constant pattern.
 
