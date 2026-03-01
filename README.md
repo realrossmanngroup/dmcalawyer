@@ -47,7 +47,7 @@ Fork this repo, improve the citations. Add evidence you have. File your own comp
 
 The more complaints that are filed with proper documentation, the harder they are to ignore. Every complaint becomes part of the attorney's disciplinary record regardless of outcome.
 
-### how to file with the New York State Bar
+### how to file with the New York grievance committee
 
 The Attorney Grievance Committee for the First Judicial Department handles complaints against attorneys whose offices are in New York County. **Info:** https://ww2.nycourts.gov/attorneys/grievance/complaints.shtml
 
